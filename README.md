@@ -1,4 +1,4 @@
-### Greetings 👋
+### Greetings
 ---
 
 - :construction: Current Project - Implementing a sharing system to [Accountability-Buddy](https://github.com/vkahlon/accountability-buddy)
@@ -12,3 +12,7 @@
 ---
 
 I'm Vick, a web developer who recently graduated from an accelerated-learning program.  All my life, I've been always exploring and learning new technologies to utilize. My objective is to build projects that makes life easier for users. Feel free to reach out to me regarding my work or anything development related. 
+
+### Let's connect
+---
+- [LinkedIn](https://www.linkedin.com/in/vickramkahlon/)
