@@ -1,4 +1,4 @@
-### Greetings
+### Greetings!
 ---
 
 - :construction: Current Project - Implementing a social system to [Accountability-Buddy](https://github.com/vkahlon/accountability-buddy)
