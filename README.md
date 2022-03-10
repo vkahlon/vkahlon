@@ -1,4 +1,4 @@
-### Hi there 👋
+### Greetings 👋
 
 <!--
 **vkahlon/vkahlon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![vkahlon's GitHub stats](https://github-readme-stats.vercel.app/api?username=vkahlon&theme=react&&show_icons=true&hide=stars,contribs)](https://github.com/vkahlon/github-readme-stats)
